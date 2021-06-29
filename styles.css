@@ -1,0 +1,26 @@
+body{
+    background-color: aquamarine;
+}
+
+#gradPrev{
+    margin-left: auto;
+    margin-right: auto;
+    background-image: linear-gradient(white, yellow);
+    height: 500px;
+    width: 500px;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+#UI{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#submit{
+    margin-left: auto;
+    margin-right: auto;
+}
